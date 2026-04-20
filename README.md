@@ -46,6 +46,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=infinity0-0&label=⚡+Power+Level&color=FF8C00&style=for-the-badge)](https://github.com/infinity0-0)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ZERO's_World-FFD700?style=for-the-badge&labelColor=FF4500)](https://infinity0-0.github.io/Kartik-Portfolio/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ZERO's_World-FFD700?style=for-the-badge&labelColor=FF4500)](https://portfolio-freelancer-gamma.vercel.app/portfolio)
 [![Blog](https://img.shields.io/badge/📝_Blog-GyanFever_Talk-FF8C00?style=for-the-badge&labelColor=8B0000)](https://gyanfevertalk.blogspot.com/?m=1)
 [![Email](https://img.shields.io/badge/📡_Ping_Me-Hotmail-FFD700?style=for-the-badge&labelColor=FF4500)](mailto:Infinity0-0@hotmail.com)
 
